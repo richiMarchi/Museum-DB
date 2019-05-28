@@ -1,4 +1,4 @@
-#Museum DB
+# Museum DB
 University Database Technologies project.
 
 To successfully run the jar, you need jdk 1.8 and create a database instance named "museum" in MS SQL Server.
