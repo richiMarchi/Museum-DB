@@ -1,0 +1,2 @@
+Per la corretta esecuzione del jar, è necessario possedere il jdk 1.8 e utilizzare un dbms Microsoft SQL Server in cui creare un'istanda di database col nome di "museum".
+Appena avviato il jar, sarà necessario prima di tutto inserire un museo, cliccando su "Opera su tutti i musei" e poi "Aggiungi Museo".
